@@ -39,7 +39,7 @@ images/ – Dashboard screenshots
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.pdf)
 
 ## How to Run the Project
 
