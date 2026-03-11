@@ -39,7 +39,7 @@ images/ – Dashboard screenshots
 
 ## Dashboard Preview
 
-![Dashboard](images/Employee_Attrition_Presentation AAAC sem3.pdf)
+[Dashboard](dashboard/HR Analytics Dashboard.pbix)
 
 ## How to Run the Project
 
