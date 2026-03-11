@@ -39,7 +39,7 @@ images/ – Dashboard screenshots
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.pdf)
+![Dashboard](images/Employee_Attrition_Presentation AAAC sem3.pdf)
 
 ## How to Run the Project
 
