@@ -39,7 +39,7 @@ images/ – Dashboard screenshots
 
 ## Dashboard Preview
 
-[Dashboard](dashboard/HR Analytics Dashboard.pbix)
+[Download Power BI Dashboard](dashboard/HR%20Analytics%20Dashboard.pbix)
 
 ## How to Run the Project
 
